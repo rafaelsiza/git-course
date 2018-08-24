@@ -7,5 +7,3 @@ Saiba mais no link
 Café
 
 Botao paypal
-
-asdadsdaada
